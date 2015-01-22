@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.incallui.vanzo.KeyguardIconsLayout
+     android:id="@+id/nIconsLayout"
+     android:layout_width="fill_parent"
+     android:layout_height="fill_parent"
+     xmlns:android="http://schemas.android.com/apk/res/android">
+  <View
+     android:id="@+id/nCenterPoint"
+     android:layout_width="0.0dip"
+     android:layout_height="0.0dip"
+     android:layout_marginTop="@dimen/vanzo_center_margin_top"
+     android:layout_alignParentBottom="true" />
+  <View
+     android:id="@+id/nTargetIn"
+     android:layout_width="0.0dip"
+     android:layout_height="0.0dip"
+     android:layout_above="@id/nCenterPoint"
+     android:layout_centerHorizontal="true" />
+</com.android.incallui.vanzo.KeyguardIconsLayout>

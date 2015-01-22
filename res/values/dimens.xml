@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="vanzo_center_margin_top">185.0dip</dimen>
+    <dimen name="vanzo_keyguard_action_text_icon_padding">10.0dip</dimen>
+    <dimen name="wave_answer_fragment_height">378.0dip</dimen>
+
+</resources>
